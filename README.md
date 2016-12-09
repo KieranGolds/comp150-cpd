@@ -27,11 +27,13 @@ Here we are four weeks in  and I have come across another problem which I have t
 
 ## Week 5 
 
-self motivation
+Self motivation
+I find myself this week amongst many assignments and presentations in progress all at once. Currently I have six upcoming hand in dates for various work covering all three modules of the course. Although I have much work to do I have found it hard to motivate myself to get work done and have therefore set myself a target over the coming weeks. I want to set myself smaller deadlines for parts of each assignment. This will lead to me progressively getting work completed rather than doing considerable amount of work near deadlines. This is especially important due to the deadlines being so close together. 
 
 ## Week 6
+Preparation
 
-Group work
+
 
 ## Week 7
 
@@ -39,8 +41,9 @@ Regular practise
 
 ## Week 8 
 
-Preparation
+Group work
+This week group work has been a main focus withmultiple projects involving teams from two to twelve persons. I find the two person pair programming assignments beneficial and achievable however the larger group ones not so much due to less control of what is going on. 
 
 ## Week 9
 
-Time managament 
+Time management 
