@@ -36,18 +36,28 @@ I find myself this week amongst many assignments and presentations in progress a
 ## Week 6
 
 Preparation
-
+before and after lessons look at the lesson plan. 
+after lesson go over maybe the day after to try and make the information make more sense 
 
 
 ## Week 7
 
 Regular practise
+out of lessons complete personal work i am interested in
+look at other projects
+try aspects we havent covered in lesson 
+or redo work in a different way and challenge myself dont always do in easy way, 
+helps to learn more not just half of a topic, for example tinkering, complete and explore your own algorithms 
 
 ## Week 8 
 
 Group work and commication in agile projects/assignments
 This week group work has been a main focus withmultiple projects involving teams from two to twelve persons. I find the two person pair programming assignments beneficial and achievable however the larger group ones not so much due to less control of what is going on. 
 
+
 ## Week 9
 
-Time management 
+Time management linked with assessments and free time 
+using free time effectively not just to mess about 
+allocate study peroids 
+
