@@ -27,15 +27,20 @@ Here we are four weeks in  and I have come across another problem which I have t
 
 ## Week 5 
 
-
+self motivation
 
 ## Week 6
 
+Group work
 
 ## Week 7
 
+Regular practise
 
 ## Week 8 
 
+Preparation
 
 ## Week 9
+
+Time managament 
